@@ -1,0 +1,17 @@
+<html lang="en" slick-uniqueid="3" data-ember-extension="1">
+  <head>
+    <title>Kinstrospect</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
+  </head>
+  <body class="w-100 sans-serif bg-white">
+      <section class="flex-ns vh-100 items-center">
+      <div class="mw6 ph5">
+        <div class="tc tl-ns ph3">
+         
+          <a href="/" class="dib grow">
+            Click here to download
+          </a>
+        </div>
+      </section>
+  </body>
+</html>
